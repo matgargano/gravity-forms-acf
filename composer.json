@@ -1,0 +1,18 @@
+{
+  "name": "statenweb/gravity-forms-acf",
+  "description": "Gravity Forms ACF Field",
+  "keywords": ["wordpress"],
+  "license": "GPL-3.0+",
+  "authors": [
+    {
+      "name": "Adam Pope",
+      "email": "apope@stormconsultancy.co.uk"
+    },
+    {
+      "name": "Mat Gargano",
+      "email": "mgargano@statenweb.com"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
+
