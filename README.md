@@ -76,7 +76,15 @@ If you are using the field to select multiple forms, you will have to iterate ov
 About
 =====
 
-Version: 1.2
+
+2.1.1
+---
+
+- add the ability to return a form or a form id, forked by @matgargano
+
+1.2
+---
+
 
 Written by Adam Pope and Liam Gladdy of [Storm Consultancy](http://www.stormconsultancy.co.uk) and the amazing contributors on [Github](https://github.com/stormuk/Gravity-Forms-ACF-Field/graphs/contributors)
 
